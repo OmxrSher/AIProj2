@@ -139,9 +139,7 @@ OpenCV
 Google Colab
 GitHub
 VS Code
-Author
 
-Moustafa Sherif
 
 Project Status
 
